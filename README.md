@@ -1,3 +1,4 @@
+自用
 # Agentspace / Bard 自动监控
 
 自动检查 https://status.oneapi.im/ 的顶部「通道」概览卡片。每次分别检查 `agentspace` 和 `bard`：
