@@ -1,5 +1,5 @@
 {
-  "agentspace": true,
+  "agentspace": false,
   "bard": true,
   "_failure_counts": {
     "agentspace": 0,
