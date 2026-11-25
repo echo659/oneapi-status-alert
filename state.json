@@ -1,8 +1,8 @@
 {
-  "agentspace": false,
-  "bard": false,
+  "agentspace": true,
+  "bard": true,
   "_failure_counts": {
-    "agentspace": 2,
-    "bard": 2
+    "agentspace": 0,
+    "bard": 0
   }
 }
